@@ -11,7 +11,7 @@ ____
 ### **TECHNICAL SKILLS**
 ____
 | Progamming Languages       | Tools                 |  
-| -------------              |  :-------------:  |  
+| -------------              |  -------------  |  
 | Java     | Unity |  
 | Python     | Unreal Engine     |   
 | JavaScript | AWS      |  
