@@ -50,13 +50,15 @@ Dillinger.io is a text editor, with a twist: It lives on the Web (so, nothing to
 __How to use Dillinger?__
 1. Once you have read exapmles from [Markdwon examples](https://guides.github.com/features/mastering-markdown/) you can go to [Dillinger.io](https://dillinger.io/) 
 2. You will see bunch of instructions on the left panel written in Markdown and right panel with converted version.
-3. you can go through the instructions
-4. you can click on the left top option and create a new document 
-5. To use Github on Dillinger you can on *IMPORT FROM* then click on Github
+3. You can go through the instructions
+4. You can click on the left top option and create a new document 
+5. To use Github on Dillinger you can on **IMPORT FROM** then click on Github
 6. Once you click on Github it will show you *Organisations* panel with your Github account
 7. Once you click on the account you will the repositories that you created earlier on Github 
 8. You can click on the desired .md file that you want to edit and it will open in Dillinger.io
 9. Now you can start editing your document and you see all the changes in the right hand panel
+10. Once you are done editing you can click on **SAVE TO** and then choose Github which ask you to commit changes 
+11. 
 
 
 
