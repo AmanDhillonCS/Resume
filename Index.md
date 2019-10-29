@@ -20,7 +20,7 @@ ____
 ### **EXPERIENCE**
 ____
 ##### __Tim Hortons , Share Venture - Winnipeg, Canada (2016 - present)__
-- __Role -__ SuperVisor 
+- __Role -__ SuperVisor . 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make Deposit , Count tills , Make Schedule and Inventory Count
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handel Customer Complaints and Orders
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manage Breaks  and training
