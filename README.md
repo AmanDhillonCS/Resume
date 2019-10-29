@@ -24,7 +24,7 @@ Github is a website which helps in controlling version for a software or a progr
 
 __How to use Github?__
 1. Go to [GitHub](http://github.com)
-2.  fill out your information and click on ![Image of signup](https://imgur.com/wziZkUi)
+2.  fill out your information and click on ![Image of signup](https://i.imgur.com/wziZkUi.jpg)
 3. Once you have signed up  you will see two options 
 - [Read the Guide](https://guides.github.com/activities/hello-world/)
 - [Start a project](https://github.com/new)
@@ -33,13 +33,13 @@ __How to use Github?__
 
 __How to Create a new repository on Github?__
 
-1. When you are on [new repositort](https://github.com/new) you can choose your desired Resository name 
+1. When you are on [new repository](https://github.com/new) you can choose your desired Repository name 
 2. Add a little description about it (*optional*)
-3. then click on Create repository 
+3. ~~then~~ click on Create repository 
 4. Now you can create a readme.md file by clicking on *Create new file*
 ### Markdown 
 __What is Markdown?__
-Markdown is a sytle of text used by Github or web documentation.The files in Markdown end with .md or .markdown.
+Markdown is a ~~sytle~~ style of text used by Github or web documentation.The files in Markdown end with .md or .markdown.
 
 Some good examples for how to use Markdown syntax can be found here -[Markdwon examples](https://guides.github.com/features/mastering-markdown/)
 
@@ -48,7 +48,7 @@ __What is Dillinger?__
 Dillinger.io is a text editor, with a twist: It lives on the Web (so, nothing to download), it's free, and it's all about Markdown, an easy way to format your text.
 
 __How to use Dillinger?__
-1. Once you have read exapmles from [Markdwon examples](https://guides.github.com/features/mastering-markdown/) you can go to [Dillinger.io](https://dillinger.io/) 
+1. Once you have read ~~exapmles~~examples from [~~Markdwon~~Markdown examples](https://guides.github.com/features/mastering-markdown/) you can go to [Dillinger.io](https://dillinger.io/) 
 2. You will see bunch of instructions on the left panel written in Markdown and right panel with converted version.
 3. You can go through the instructions
 4. You can click on the left top option and create a new document 
