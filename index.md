@@ -20,9 +20,9 @@ ____
 ### **EXPERIENCE**
 ____
 ##### __Tim Hortons , Share Venture - Winnipeg, Canada (2016 - present)__
-- __Role -__ SuperVisor 
- Make Deposit , Count tills , Make Schedule and Inventory Count
-Handel Customer Complaints and Orders
+- __Role -__ SuperVisor   
+Make Deposit , Count tills , Make Schedule and Inventory Count  
+Handel Customer Complaints and Orders  
 Manage Breaks  and training
 
 ### **EVENTS AND VOLUNTEER**
