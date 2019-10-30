@@ -1,9 +1,9 @@
 # How to Host Your Resume on Github Pages 
-This readme file is contains guidelines for hosting your resume or documents on Github. We will use Markdown and Dillinger as text editor. We will also use a custom Jekyll theme provided by Github.
+This readme file contains guidelines for hosting your resume or documents on Github. We will use Markdown and Dillinger as a text editor. We will also use a custom Jekyll theme provided by Github.
 ## Intended Audience
-A person with technical background who wants to learn Markdown and Github.
-## Prerequsites
-A sample resume that you want to upload.Working Internet Connection is a must for using Dillinger. 
+A person with a techical background who wants to learn Markdown and Github.
+## Prerequisites
+A sample resume that you want to upload. Working Internet Connection is a must for using Dillinger. 
 ## Instructions
 ___
 ### Github
@@ -28,11 +28,11 @@ __How to Create a new repository on Github for your resume?__
 5. Create another .md file with name " _index.md_ "
 6. index.md file will be your future online resume
 
-__Note__ : Make sure the index.md file has correct syntax as Index.md with a captial "I" won't work.
+__Note__: Make sure the index.md file has correct syntax as Index.md with a capital "I" won't work.
 ___
 ### Markdown 
 __What is Markdown?__
-Markdown is a style of text used by Github or for web documentation.The files in Markdown end with .md or .markdown.
+Markdown is a style of text used by Github or for web documentation. The files in Markdown end with .md or .markdown.
 
 ### Common Markdown Syntax
 |  Syntax  |     Description     | 
@@ -41,9 +41,9 @@ Markdown is a style of text used by Github or for web documentation.The files in
 |Bold|** **This text is bold****|
 |   Italics      |   **This text is Italics* *      |
 | Lists |   *(Space)"your text"   |  
-| New line | (Double Space)(Enter)|    
+| Newline | (Double Space)(Enter)|    
 
-Some good examples for how to use Markdown syntax can be found here -[Markdwon examples](https://guides.github.com/features/mastering-markdown/)
+Some good examples for how to use Markdown syntax can be found here -[Markdown examples](https://guides.github.com/features/mastering-markdown/)
 ___
 
 ### Dillinger
@@ -52,32 +52,32 @@ Dillinger.io is a text editor, with a twist: It lives on the Web (so, nothing to
 
 __How to use Dillinger?__
 1. Once you have read examples from [Markdown examples](https://guides.github.com/features/mastering-markdown/) you can go to [Dillinger.io](https://dillinger.io/) 
-2. You will see bunch of instructions on the left panel written in Markdown and right panel with converted version.
+2. You will see a bunch of instructions on the left panel written in Markdown and right panel with converted version.
 3. You can go through the instructions (*optional*)
 4. You can click on the left top option and create a new document (optional) 
 5. To use Github on Dillinger you can click on **IMPORT FROM** then click on Github
 6. Once you click on Github it will show you **Organisations** panel with your Github account
 7. Once you click on the account you will see the repository that you had created earlier on Github 
 8. You can click on the desired .md file e.g index.md that you want to edit and it will open in Dillinger.io
-9. Now you can start editing your document using Markdown syntax and you see all the changes in the right hand panel
+9. Now you can start editing your document using Markdown syntax and you see all the changes in the right-hand panel
 10. Once you are done editing you can click on **SAVE TO** and then choose Github which will ask you to commit changes 
 11. After doing the above step you can go back to your Github repository
 ___
 
-### How to uplaod your resume on Github and choosing a Jekyll theme?
-1. Once you are on your Github resume repository click on __settings icon__ .
+### How to upload your resume on Github and choosing a Jekyll theme?
+1. Once you are on your Github resume repository click on __settings icon__ 
 2. Scroll down to __Theme Chooser__ and click on __Change theme__
 3. You will see different kinds of themes choose anyone you like 
-4. Once again go to settings you will see the link with title **Your site is published** following with a link
+4. Once again go to settings you will see the link with the title **Your site is published** following with a link
 5. Once you click on the link it will show you your resume with the theme you choose earlier
 6. You can use this link for showing your resume
 
-__Note__ : The changes after choosing the theme might take a few minutes.
+__Note__: The changes after choosing the theme might take a few minutes.
 ___
 
 ## More Resources
 
-* Here is intro to [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
+* Here is an intro to [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
 * easy to use [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown Syntax
 * Guidelines to use [Dillinger](https://www.markdownguide.org/tools/dillinger/)
 
@@ -87,6 +87,6 @@ ___
 * Thanks to [Joe McCann](https://twitter.com/joemccann) and [Martin Broder](https://twitter.com/mrtnbroder) for providing with Dillinger.io
 
 ## FAQs
-* Can i upload images in Dillinger?  __Yes__, you can use the link of your image and use Markdown syntax as following to uplaod a online image -
+* Can I upload images in Dillinger?  __Yes__, you can use the link of your image and use Markdown syntax as following to upload an online image -
 ! [ your text ] (https://YourImageLink.jpeg")
-* Does Markdown supports Tables? __Yes__, Markdown supports Tables ![tables](https://i.ibb.co/Wgm3LK5/tables.jpg")
+* Does Markdown support Tables? __Yes__, Markdown supports Tables ![tables](https://i.ibb.co/Wgm3LK5/tables.jpg")
