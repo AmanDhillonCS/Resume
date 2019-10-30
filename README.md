@@ -1,23 +1,9 @@
 # How to Host Your Resume on Github Pages 
-This readme file is document with set of guidelines for hosting your resume or documents on Github. We will use Markdown and Dillinger as text editor. We will also use a custom Jekyll theme provided by Github.
-
-
-## Description of Intended Audience  
-These instructions are inteded for any person with little to no experience in Github or Markdown, who wants to upload thier resume on Github using Markdown.
-#### Audience: Technical background:
-- No expereince in Dillinger
-- No experience in Github
-- No experience with Jekyll
-
-__Venue :__  README file within Github Pages
-__Purpose :__ Write a resume using Markdown, Format the resume with a Jekyll theme, and host resume (for free) on GitHub Pages.
-__Additional Purpose :__ Increase experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages
-__Desired Reaction :__ Learned how to host docutments using Dillinger and Jekyll theme
-__Vocabulary :__ Clear
-__Tone :__ Objective and Polite
-__Consideration :__ Audience and Word Count
+This readme file is contains guidelines for hosting your resume or documents on Github. We will use Markdown and Dillinger as text editor. We will also use a custom Jekyll theme provided by Github.
+## Intended Audience
+A person with technical background who wants to learn Markdown and Github.
 ## Prerequsites
-Must have a some knowlege about computer and how to use websites or person who wants to learn Markdown and Github in general with technical background. A sample resume that you want to upload.
+A sample resume that you want to upload.Working Internet Connection is a must for using Dillinger. 
 ## Instructions
 ___
 ### Github
@@ -70,7 +56,7 @@ __How to use Dillinger?__
 3. You can go through the instructions (*optional*)
 4. You can click on the left top option and create a new document (optional) 
 5. To use Github on Dillinger you can click on **IMPORT FROM** then click on Github
-6. Once you click on Github it will show you *Organisations* panel with your Github account
+6. Once you click on Github it will show you **Organisations** panel with your Github account
 7. Once you click on the account you will see the repository that you had created earlier on Github 
 8. You can click on the desired .md file e.g index.md that you want to edit and it will open in Dillinger.io
 9. Now you can start editing your document using Markdown syntax and you see all the changes in the right hand panel
@@ -93,7 +79,7 @@ ___
 
 * Here is intro to [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
 * easy to use [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown Syntax
-
+* Guidelines to use [Dillinger](https://www.markdownguide.org/tools/dillinger/)
 
 ## Authors and Acknowledgments
 * Peer reviewed by [Ryan Finnigan](finnigar@myumanitoba.ca)
