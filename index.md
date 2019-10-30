@@ -32,11 +32,11 @@ Manage Breaks  and training
 
 ### **EVENTS AND VOLUNTEER**
 ____
-- __ICM Student Orientation__ &nbsp;(Group Leader) Winter 2017 
+- __ICM Student Orientation__ &nbsp;(Group Leader) Winter 2017  
 Helped new students adjust to university environment 
-- __Speed-Meet Greet event__ (Atendee) Fall 2019
-&nbsp;Met with 14 employers from Computer Science students and grads
-- __WICS Mentor Mingle at IQMetrix__ &nbsp;(Atendee) Fall 2019
+- __Speed-Meet Greet event__ (Atendee) Fall 2019  
+Met with 14 employers from Computer Science students and grads
+- __WICS Mentor Mingle at IQMetrix__ &nbsp;(Atendee) Fall 2019  
 Met with Past Computer Science graduates from different universities 
   
 
