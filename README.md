@@ -91,7 +91,9 @@ ___
 
 ## More Resources
 
-* [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) forMarkdown Syntax
+* Here is intro to [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
+* easy to use [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown Syntax
+
 
 ## Authors and Acknowledgments
 * Peer reviewed by [Ryan Finnigan](finnigar@myumanitoba.ca)
@@ -99,3 +101,6 @@ ___
 * Thanks to [Joe McCann](https://twitter.com/joemccann) and [Martin Broder](https://twitter.com/mrtnbroder) for providing with Dillinger.io
 
 ## FAQs
+* Can i upload images in Dillinger?  __Yes__, you can use the link of your image and use Markdown syntax as following to uplaod a online image -
+! [ your text ] (https://YourImageLink.jpeg")
+* Does Markdown supports Tables? __Yes__, Markdown supports Tables ![tables](https://i.ibb.co/Wgm3LK5/tables.jpg")
