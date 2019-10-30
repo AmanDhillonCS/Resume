@@ -10,13 +10,18 @@ ____
 
 ### **TECHNICAL SKILLS**
 ____
-| Progamming Languages       | Tools                 |  
-| -------------              |  -------------  |  
-| Java     | Unity |  
-| Python     | Unreal Engine     |   
-| JavaScript | AWS      |  
-| Processing | Dillinger      |  
-| SQL |  Wolfaram Mathematica     |  
+__Progamming Languages__ 
+* Java     
+* Python     
+* JavaScript 
+* Processing  
+* SQL  
+ 
+__Tools__
+* AWS
+* Unity Engine
+* Wolfaram Mathematica
+* Dillinger
 ### **EXPERIENCE**
 ____
 ##### __Tim Hortons , Share Venture - Winnipeg, Canada (2016 - present)__
